@@ -3,6 +3,7 @@
 
 This project evaluates Retrieval-Augmented Generation (RAG) systems for news-based question answering using Zephyr-7B, FLAN-T5, and LLaMA2 models with BLEURT metric.
 
+News Dataset: https://www.kaggle.com/datasets/rmisra/news-category-dataset
 ## 📌 Overview
 - *Problem*: Traditional QA systems struggle with dynamic news content due to static knowledge limitations
 - *Solution*: Implement RAG pipeline to augment LLMs with real-time news retrieval
